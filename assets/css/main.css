@@ -1995,7 +1995,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color: #080808;
 		}
 
 		.wrapper.style2 {
@@ -2015,7 +2015,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				color: #ffffff;
 			}
 
 			.wrapper.style4 form input[type=text],
@@ -2036,7 +2036,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #f1e6e6;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -2066,12 +2066,12 @@ input, select, textarea {
 			transition: background-color .2s ease-in-out;
 			position: relative;
 			display: block;
-			color: #fff;
+			color: #090808;
 			text-decoration: none;
 			outline: 0;
 			font-weight: 600;
 			border-radius: 8px;
-			color: #fff;
+			color: #060606;
 			height: 2.5em;
 			line-height: 2.5em;
 			padding: 0 1.25em;
